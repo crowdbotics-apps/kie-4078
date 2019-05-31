@@ -1,0 +1,3 @@
+rootProject.name = 'kie_4078'
+
+include ':app'
